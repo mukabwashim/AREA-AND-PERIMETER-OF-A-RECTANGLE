@@ -8,8 +8,8 @@ class Rectangle:
 
     def perimeter(self):
         return 2 * (self.length + self.width)
-# Create a rectangle with length 5 and width 3
-my_rectangle = Rectangle(5, 3)
+# Create a rectangle with length 4 and width 7
+my_rectangle = Rectangle(4, 7)
 
 # Calculate the area and perimeter
 area = my_rectangle.area()
